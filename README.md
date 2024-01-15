@@ -24,7 +24,7 @@ eg: F with Female in the "Gender" column
 Five pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between Bike Purchase and other factors such as Average Income, commute distance, Profession Home ownership and age.
 
 Below is a snippet of the pivot tables in Excel.
-![pivot_tables](https://github.com/harshmeshram05/Bike_Sales_Analysis_Dashboard/assets/141904527/b05531e3-7495-4e56-a8df-b21bf79f82fa)
+![pivot_tables](https://github.com/harshmeshram05/Bike_Sales_Analysis_Dashboard/assets/141904527/ad6c6a32-3a43-423d-91b6-72aba9235ffb)
 
 ## Data Visualization
 Finally, the dashboard was created by inserting and  customizing the pivot charts of corresponding  pivot table.
